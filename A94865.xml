@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumphs of Paris at the reception and entrance of Their Maiesties of France.</title>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94865</idno><idno type="EEBO-CITATION">99866924</idno>
+  <idno type="VID">119213</idno>
+  <idno type="EEBO-PROQUEST">2248504956</idno>
+  
+            <idno type="STC">Wing T2299</idno>
+            <idno type="STC">Thomason E1040_11</idno>
+            <idno type="STC">ESTC R207905</idno>
+            <idno type="PROQUEST">99866924</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866924e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumphs of Paris at the reception and entrance of Their Maiesties of France.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Sarah Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Royal visitors --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119213:1"/>
+            <p>THE TRIUMPHS OF PARIS AT THE RECEPTION And entrance Of Their Maiesties OF FRANCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Sarah Griffin,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:119213:2"/>
+            <pb n="1" facs="tcp:119213:2"/>
+            <head>The full Relation of all the Paintings, Statues, Tables of Porches Triumphant Arches, erected against the Entrance of the King and Queen, at the Suburbs, St. <hi>Authonies</hi> Gate, and other publique places, with the Description of that beautifull and mag<g ref="char:EOLhyphen"/>nificent Pyramide of the Place <hi>Dauphin,</hi> with its Amphitheatre, as also all the Latine Devices and In<g ref="char:EOLhyphen"/>scriptions.</head>
+            <div type="part">
+               <head>A description of the first Porticue by the Halls of the Sub<g ref="char:EOLhyphen"/>urbs of St. <hi>Anthony.</hi>
+               </head>
+               <p>BEfore you come to this Porch which is between the Hills and the Abbey of St. <hi>Anthony,</hi> and at the very and of the Suburbs, right over against the Crosse of <hi>Picque-Puce,</hi> adjoyning to the last house, severall plancks are set up in the fashion of a large Hall, where their Majesties are to heare the Orations, and receive the submissions and Homages of the Soverain Courts, of the Provost of the Merchants, and Sheriffs, who are to present the Keyes; and generally of the whole body of the City, who ascend by one Ladder, and descend by another to avoid confusi<g ref="char:EOLhyphen"/>sion. In the same place their Majesties will see the whole Burgery of <hi>Paris</hi> in Armes under the leading of their respective Colonels march by: this place is most richly hung with Tapistry, and a<g ref="char:EOLhyphen"/>dorned with cloth of gold and silver.</p>
+               <p>Forward on the Suburbs, and between the Halls and the Ab<g ref="char:EOLhyphen"/>bey of St. <hi>Anthony,</hi> a grand Porticue is raised, supported by six great brasse pillars, each fixt upon a pedestall, which give free
+<pb n="2" facs="tcp:119213:3"/>passage through three different gates, the middlemost whereof in largest. The Frise which extends it selfe over the Chapiters of these pillars is all overlaid with the letters of the King &amp; Queens names mingled with Flowers de Luce, and castles of <hi>Castile</hi> or <hi>Spain,</hi> all wrought in gold, in such manner, that the double L, the cipher of the King, <hi>Lewis, Deodate,</hi> is first, then a Flower de-Luce, after that an M and T. entwined, which are the characters of the Queen, <hi>Maria Theresia</hi> of <hi>Austria,</hi> with a Castle of <hi>Castile,</hi> pointed with three golden Towers, then a double L again, and so one after another alternately.</p>
+               <p>Above the Frize and Corniches is this inscription, which gli<g ref="char:EOLhyphen"/>stens in golden Letters upon a table of Jasper.</p>
+               <q>
+                  <p>Ludovico à Deo Dato, &amp; Mariae Theresiae.<lb/> Christianies. Pacificis, Aug. Opt. Max.<lb/> Orbe nuptiis pacato, urbe adventu recreata.<lb/> Votis publicis, votis aeternis,<lb/> Summa omnium ordinum alacritate susceptis.<lb/>
+                     <hi>D. N. M. Q. eorum cices Paris. L. M. PP.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>To the Majesties Most Christian, Pacifique, most August, most Excel<g ref="char:EOLhyphen"/>lent of <hi>Lewis,</hi> given of God, and <hi>Maria Theresia.</hi> Whose Nuptials have restored peace to the world, whose com<g ref="char:EOLhyphen"/>ing to this Citie hath gladded it. With publique pray<g ref="char:EOLhyphen"/>ers, aeternal vowes made with universall gladness of all degrees, Their Citizens of <hi>Paris</hi> have erected this in testimonie of their joy.</p>
+               </q>
+               <p>On both sides of this Inscription are represented the Sun and Moon with a Devise.</p>
+               <q>
+                  <p>About the Sun.</p>
+                  <p>
+                     <hi>Dedit ille diem,</hi>
+                  </p>
+                  <p>He gave day.</p>
+               </q>
+               <q>
+                  <p>About the Moon.</p>
+                  <p>
+                     <hi>Dedit illa quietem.</hi>
+                  </p>
+                  <p>She gave rest.</p>
+               </q>
+               <pb n="3" facs="tcp:119213:3"/>
+               <p> Alluding to <hi>Lewis</hi> the 13th. of glorious memory deceased, Fa<g ref="char:EOLhyphen"/>ther of this King, who gave him light, and to the Queen Mo<g ref="char:EOLhyphen"/>ther, to whom the Nation is bound, not onely for bringing into the world this most <hi>August</hi> Monarch, but also most infinitely obliged to her, for that she has rendred him victorious over all the Enemies of his peace and quiet during her Regency: and to crown all her other actions, hath procured a durable tranquility to his Dominions by this most glorious marriage. This Porticue is enriched also with many other Statues and Paintings.</p>
+            </div>
+            <div type="part">
+               <head>The Description of the Gate and Postern of St. <hi>Anthony,</hi> and of their Figures, Statues and Inscriptions.</head>
+               <p>All along the Suburbs from the porticue of the Halls unto the brinke of the graft of St. <hi>Anthonies</hi> gate, the walls of the Gardens are all scaffolded atop. All the windows of the severall stories of the Houses being filled with spectators who are come from all parts of <hi>France,</hi> nay most parts of <hi>Europe</hi> to be witness of this most noble triumph.</p>
+               <p>This St. <hi>Anthonies</hi> gate shall have this especiall honour more then the rest of these triumphant Fabricks, that it shall be long after the entry exposed to view, and shall so continue, and there<g ref="char:EOLhyphen"/>fore the more art and curiosity hath been used about it then other places.</p>
+               <p>Having passed the Suburbs, you come to the gates of St. <hi>Antho<g ref="char:EOLhyphen"/>ny</hi> aside of the Bastil, neer at hand two rare Statues present them<g ref="char:EOLhyphen"/>selves before you come to the postern, which are raised on the brinke of the ditch, the one represents <hi>Hercules,</hi> the other <hi>Pal<g ref="char:EOLhyphen"/>las</hi> with these Latine Impresses.</p>
+               <q>
+                  <p>
+                     <hi>Hercules.</hi>
+                  </p>
+                  <p>
+                     <hi>Pacavit rebore terras.</hi>
+                  </p>
+                  <p>He appeased the world with strength.</p>
+               </q>
+               <q>
+                  <p>
+                     <hi>Pallas.</hi>
+                  </p>
+                  <p>
+                     <hi>Consilio victrix.</hi>
+                  </p>
+                  <p>Conquerour by councel.</p>
+               </q>
+               <p>Moreover to set out the two little walls that are reared aside of these Statues there are fire-pots placed on them, which cast forth flames.</p>
+               <pb n="4" facs="tcp:119213:4"/>
+               <p> So you come to the Postern of <hi>St. Anthony,</hi> which will trans<g ref="char:EOLhyphen"/>mit to posterity a faithfull testimony of this famous entry.</p>
+               <p>Adjoyning to the great Gate, through which passe the Coa<g ref="char:EOLhyphen"/>ches and Horsomon, are two other little gates for people on foot. Upon these two little gates stand two statues within their vaults at the feet of them are these words</p>
+               <q>
+                  <p>
+                     <hi>Spes Gallica</hi>
+                  </p>
+                  <p>The Hope of <hi>France.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <hi>Socuritas publica.</hi>
+                  </p>
+                  <p>The publique safety.</p>
+               </q>
+               <p>The sides of these 2 Gates are beautified with several device of carving, as borders of Flowers, Trophees of Armes; and on the two extremities of the Chapiters are two rare Pyramides, each of which on their spites bears a Flower-de-Luce. But between these Statues, and upon the top of the Chapiters there is a statue placed erect representing the Genius of <hi>France,</hi> holding a Scepter in one hand, and a golden Fleece in the other.</p>
+               <p>At the base of this Statue are as it were two goddesses lying on the Chapiters w<seg rend="sup">ch</seg> reach out their right hands upon a Cushion to swear the Peace; and to denote the alliance Betwixt the 2 Crowns, they bear in their hands a kind of scepter.</p>
+               <p>Upon the Chapiters are the <hi>Armes</hi> of <hi>France</hi> and <hi>Navarr</hi> rounded with the Collars of both Orders: but the most conside<g ref="char:EOLhyphen"/>rable piece is this noble inscription, which will be consulted by future ages for the understanding all the causes of this <hi>peace,</hi> it is fairly graven on a Table of black Marble to preserve for ever these precious Characters.</p>
+               <q>
+                  <p>PACI,<lb/> Victricibus Ludovici XIV. armis.<lb/> Felicibus Annae Consiliis,<lb/> Augustis Mariae Ther<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>siae Nuptiis,<lb/> Assiduis Julii Cardinalis Mazarini curis;<lb/> Partae, Fundatae, Aeternum Firmatae,<lb/> Praefectus urbis Aedilésque sacravére.<lb/> ANNO M.DC.LX.</p>
+               </q>
+               <q>
+                  <p>To peace.<lb/> Obtained, grounded, and established,<lb/> By the victorious Armes of <hi>Lewis</hi> the XIV.<lb/> The happy Counsels of <hi>Anne.</hi>
+                     <lb/>
+                     <pb n="5" facs="tcp:119213:4"/>The prudence and industry of <hi>Julius</hi> Cardinal <hi>Mazarin.</hi>
+                     <lb/> The Provost and Sheriffs of this City have consecrated<lb/> these Porticues. <hi>Anno M.DC.LX.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="part">
+               <head>A description of St. Anthonies Gate.</head>
+               <p>Some paces from the Postern is this gate where the Lords of the City have affixed the last Table which was made by the Provost of Merchants, Monsieur <hi>Deseve,</hi> and the four last Sheriffs, the Kings Procter, the Register and the City Receiver, each of them having his Escocheon of <hi>Armes</hi> at his feet. This Table is encha<g ref="char:EOLhyphen"/>sed within a rich border of Oaken leaves gilded, and hath this Inscription.</p>
+               <q>
+                  <p>LƲDOVICO PACIFICO.<lb/> PIO, FEL. AVG. PATRI PATRIAE.<lb/> Regui sines bello aec pace propaganti,<lb/> Temporum felicitatem, latiliamque publicam<lb/> Gemino foedere sancitam,<lb/> Pacis cum Hispania.<lb/> Nuptiarum cum Maria Theresia Austriaca,<lb/> Adventu suo reserenti.<lb/> Praesectus urbis, Aediles, civésque Paris.<lb/> Alacritatis, Amoris, Religionis suae mon.<lb/> Optimo Principi <hi>PP.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>To <hi>Lewis</hi> the Peace-maker, Most pious, happy, <hi>August,</hi> Fa<g ref="char:EOLhyphen"/>ther of his Countrey, The enlarger of the bounds of his Empire by war and peace; Of the happiness of the Times, and the publique joy confirmed by a double alliance, of peace with <hi>Spain,</hi> of marriage with <hi>Maria Theresia</hi> of <hi>Au<g ref="char:EOLhyphen"/>stria,</hi> by his presence restorer. The Provost, Sheriffs, and Citizens of <hi>Paris</hi> as a testimony of their joy, affection, and fidelity to their most gracious and excellent Prince have e<g ref="char:EOLhyphen"/>rected this.</p>
+               </q>
+            </div>
+            <div type="part">
+               <head>The description of the Porticue behind the Church-yard of S. <hi>John.</hi>
+               </head>
+               <p>Their Majesties having passed St. <hi>Anthonies</hi> gate, entring the City, and the great street of St. <hi>Anthony,</hi> enter the Palace Royall, and then returning through the same street over against St. <hi>Lewis</hi> his Church, they keep on their way.</p>
+               <pb n="6" facs="tcp:119213:5"/>
+               <p> The Jesuits have erected a scaffold before their Church where they place a concent of Musick, they have also erected a stately Pyramid.</p>
+               <p>The nearest Porticue that lies in the designed passage of this magnificent show is on the backside of the Church-yard of St. <hi>John.</hi> This grand Porticue is covered like a Dome and the Muses are figured about it. It is embellisht with many rare pain<g ref="char:EOLhyphen"/>tings, and on the sides of the Port are 2 great <hi>Palmes</hi> instead of pillars, and some little Angels climbing on the uppermost bran<g ref="char:EOLhyphen"/>ches which they break from the Tree and bestrow the way with. Above, are many other little Cupids, festons of flowers, and in the middle an Oval supported by a Goddess, in the middle of that is a Medal with two heads.</p>
+            </div>
+            <div type="part">
+               <head>The Description of the Porticue of the New Market.</head>
+               <p>Their Majesties when they part from <hi>Nostre Dame</hi> pass by the New Market, and thence by the place <hi>Dauphine.</hi>
+               </p>
+               <p>This Porticue yields not to any of the aforementioned nei<g ref="char:EOLhyphen"/>ther for the excellency of contrivance or painting.</p>
+               <p>A farr off, it appears like a prospect piece of a stately Palace, where you may see into the long Halls of it through the gates and by rowes of pillars.</p>
+               <p>On both sides of this gate are erected eight grand pillars 4 on one side and 4 on another of different forms, especially the two nearest the gate are gilded over with pretty conceited Artifice, for they are wound in fashion of a scrue, and in and out the turnings, they are wreathed with three goodly Festons of Flow<g ref="char:EOLhyphen"/>ers and Grapes.</p>
+               <p>At the Pedestall of the pillars are little Goddesses, the first next the wall on the right side of the Port hath this tittle <hi>Fortu<g ref="char:EOLhyphen"/>nae Reduci,</hi> i. e. <hi>to Fortune returned,</hi> she holds an Oare and a cornucopia, the second is <hi>Laetitia Fundata,</hi> i. e. <hi>joy established,</hi> she leans upon an Anchor, the third is <hi>spes faelicitatis orbis,</hi> i. e. <hi>the Hope of the happiness of the world,</hi> the fourth is, <hi>Pax Augusta</hi> i. e. <hi>glorious peace,</hi> the fifth is <hi>Hilaritas temporum,</hi> i. e. <hi>the gladness of the times,</hi> the sixth is <hi>Fortunae manenty,</hi> to Fortune staying, she is dismounted and lies along.</p>
+               <pb n="7" facs="tcp:119213:5"/>
+               <p> upon the Gate is this written.</p>
+               <q>
+                  <p>Ludovico xiv. Regi Christianissimo.<lb/> Pacatori Terrarum, Resiitutori Galliarum.<lb/> Quod Bellicas Victorias, Victoriosa Pace Cumulaverit.<lb/> Ʋrbibus Vindicatis, Provinciis Recuperatis.<lb/>
+                     <hi>S.</hi> P. Q. P.</p>
+               </q>
+               <q>
+                  <p>To the most Christian Majestie of <hi>Lewis</hi> the xiv. The ap<g ref="char:EOLhyphen"/>peaser of the world, the restorer of <hi>France,</hi> That has added to his war-Conquests a victorious peace, having regain'd his Cities and recovered his provinces.</p>
+               </q>
+               <p>The Parliament and Citizens of <hi>Paris</hi> have erected this Porticue</p>
+               <p>Above this is a goodly large Tablet wherein the King is re<g ref="char:EOLhyphen"/>presented like a <hi>Heros</hi> or <hi>Demy</hi> God encompassed with little <hi>Ge<g ref="char:EOLhyphen"/>niuss</hi>'s and crowned by an Angel. Peace accompanied with <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> perswades him to cease the Warr, which he (divinely inspired by <hi>Charlemain,</hi> and St. <hi>Lewis,</hi> who are raised in the clouds, at the top of this Tablet) agrees to grant to his Provin<g ref="char:EOLhyphen"/>ces, which are represented at another corner of the piece having Towers, and Castles on their heads, and seeming to raise them<g ref="char:EOLhyphen"/>selves from that condition the war had reduced them to</p>
+               <p>Somwhat (as it were) behind this Table are writ these words, <hi>Mare liberum</hi> i. e. the Sea free for Commerce. <hi>Victoriae Eternae</hi> victory with he wings cut disabled to fly away. <hi>Faeoundi<g ref="char:EOLhyphen"/>tas temporum,</hi> noting the abundance and plenty of the Age.</p>
+            </div>
+            <div type="part">
+               <head>Description of the stately and magnificent Pyramid of the place Dauphin and of its Amphitheatre.</head>
+               <p>Entring the place <hi>Dauphin,</hi> of both sides you see the pourtraict of an Amphitheatre which environs the whole place, and ends at the Porticue or Pyramid which is raised at the going out of this
+<pb n="8" facs="tcp:119213:6"/>lace over against the brazen horse.</p>
+               <p>This stately porticue strikes the eye with admiration, being made up of the rarest paintings that ever dropt from a pencil, and to begin the description we will take the pieces in Order.</p>
+               <p>At the base of this Pyramid are two pedestalls who support two terms or Pilasters, a term is a humane sigure represented with a half body rising in form of a Pillar, upon every pedestall there are 2 terms, who are nere enough placed, that the 2 humane figures at top may embrace one another in signe of peace and concord.</p>
+               <p>At the base or foot where the humane figures of these 4 terms do arise, are represented the 4 Elements of the Universe which the Artificer hath well resembled; in such manner that the base of the first pillar in the corner to the right hand of the Porticue, which represent Fire, seems to be composed of grates of Iron in the form of a chang dish from whence the flames appears to issue; And before these grates of Iron (for the better explication) all the instruments which are ordinarily used about the sire are hung up, as the Hammer of the <hi>Forge</hi> and great or long tongs or pincers.</p>
+               <p>On the bottom of the other Term which is of on the side of the first and which represents the Water, appear as it were nets and strings in which fishes are scralling and intangled, together with those instruments belonging to it as Anchors &amp;c.</p>
+               <p>To satisfie curiosity concerning the placing of the 2 incompa<g ref="char:EOLhyphen"/>tible contrary Elements together and the Terms of each embra<g ref="char:EOLhyphen"/>cing one another in signe of concord, you are to understand that this union is to signifie the peace and agreement between the two Growns which was sorelaid with many contrarieties, and met with almost as many oppositions as are between those two Elements differenced so by nature.</p>
+               <p>At the Arms of one of these humane proportions which em<g ref="char:EOLhyphen"/>brace each other, hangs by a ribban an Escutcheon in an oval, the border whereof is of festons of Oaken leaves gilt and the bot<g ref="char:EOLhyphen"/>toms of <hi>Azur</hi> colour, in the middle of which linked in a crose are two pieces of cannon, and laid with Flowerdeluces, the other with the Castles of <hi>Castile</hi> with this device written a top in let<g ref="char:EOLhyphen"/>ters of gold.</p>
+               <q>
+                  <pb n="9" facs="tcp:119213:6"/>
+                  <p>
+                     <hi>Communia Fata duorum.</hi>
+                  </p>
+                  <p>The common Fate of both.</p>
+               </q>
+               <p>This is to intimate that the Arms of <hi>France</hi> and <hi>Spain</hi> are joy<g ref="char:EOLhyphen"/>ned as well as their hearts, and he that meddles with one offends both; From the bottom of this oval between two pillars de<g ref="char:EOLhyphen"/>scends. a Feston of flowers, and on the one and other pedestals which support every of these figures, there stands a little <hi>Genius.</hi> That on the Pedestal on the right hand of the Porticue, which is there represented stretching forth its Arms to unite the two con<g ref="char:EOLhyphen"/>trary Elements, at the very bottom of the pedestal hath these words.</p>
+               <q>
+                  <p>
+                     <hi>Dissociata locis concordi pace ligavit.</hi>
+                  </p>
+                  <p>He hath united people dis-joyn'd by strife.</p>
+               </q>
+               <p>The subject whereof is the same with the former, and at the base of the pedestal on the other side is a <hi>Genius</hi> set upon a kind of a Labyrinth with this <hi>Motto.</hi>
+               </p>
+               <q>
+                  <p>
+                     <hi>Solus invenit viam.</hi>
+                  </p>
+                  <p>He alone found the way out.</p>
+               </q>
+               <p>Alluding to the antient Fable of the Labyrinth out of which none but <hi>Theseus</hi> after he had killed the <hi>Minotaur</hi> could find the way, so is <hi>France</hi> obliged to the puissant <hi>Genius</hi> of her state who found a way to accomodate all the diff<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rences that seemed to oppose this great affair of the peace.</p>
+               <p>Of this other side of the gate there are also two Terms of the same set upon pedestals, whose figures at top also embrace one another.</p>
+               <p>The base of the first term or pillar neerest the passage of the port which represents the air, is made in the Fashion of a cage where are inclosed all sorts of birds, the proper instruments of this Ele<g ref="char:EOLhyphen"/>ment hang by also, as Organs, Trumpets, Horns, Flutes.</p>
+               <p>The last pillar next the wall which represents the Earth shews as through a grate all sorts of fruit which the earth affords. Here hang also all sorts of tools belonging to this Element as a Spade a Mattock, woodbill and a sickle.</p>
+               <pb n="10" facs="tcp:119213:7"/>
+               <p> On the Arm of one figure of these two terms hangs an Escut<g ref="char:EOLhyphen"/>cheon like that on the other side of the port tyed with aribban, the border whereof is made of a Feston of Oake leaves gilded, with hearts interchanged, upon the Azur bases, they are painted red covered with a royal crown of gold with this expression round about it.</p>
+               <q>
+                  <p>
+                     <hi>Non usquam junxit nobiliora fides</hi>
+                  </p>
+                  <p>Faith never joyn'd a nobler pair.</p>
+               </q>
+               <p>It needs no explication, for under the heavens there is not a more noble blood then that of <hi>Bourbon</hi> and of <hi>Austria</hi> which have given so many Princes to <hi>Christendom.</hi> Between these pillars is a feston of Flowers, and to join the Terms and make the gate round towards the top there is an Arch of painting from whence hang several borders of all sorts of flowers.</p>
+               <p>Upon the gate and all along these 4 terms the Frize extends it self, being thick laid with the letters of the King and Queens names with Flowersdeluce and Castles <hi>of Castile</hi> all interlaced with leaves and flowers which are disposed in such a manner that <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er the donble <hi>L.</hi> which is the Kings Character, followes a Flowerdeluce, then an <hi>M:</hi> and <hi>T.</hi> entwined one within the other being the Queens cifre, and then a Castle of <hi>Castile</hi> pointed with three golden Towers, then again a double <hi>L.</hi> and so in course.</p>
+               <p>But all this is but a preparative to your sight of that peice where Art seemes to have out done Nature, which being excellent for its inven<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion is most incomparable for its painting, tis diffi<g ref="char:EOLhyphen"/>cult to say who deserves most the contriver or the workman. I cannot well describe it and tis best judging by your eyes.</p>
+               <p>Upon a brave peice of Tapestry laid over this Tables in figure of a Cartridge, and laid with flowerdeluces, from the middle of the clouds descends a Throne or Chariot of Triumph in which their Majesties are scated vested with their Royal mantles. The King c<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owned with Lawrel is on the right hand, the Queen hol<g ref="char:EOLhyphen"/>ding a branch of olives in her left, sits behind him, they both give one another their right hands upon a globe which is laid under their hands, to note that the sacred union of their per<g ref="char:EOLhyphen"/>sons should not onely cause peace and union among the Poten<g ref="char:EOLhyphen"/>tates of <hi>Europe</hi> but also throughout the universe. At their feet is a <hi>Genius</hi> or <hi>Hymen,</hi> the God of <hi>Marriage</hi> represented with
+<pb n="11" facs="tcp:119213:7"/>winge, and crowned with flowers and Roses, holding in his right hand a trumpet, from whence come flames of sire; His left guides a Charlot drawn by a Cock and a Lyon yoaked together. The Reins are of several colours, for those of the Cock are blew, and so are his Petrils, which are charged in the middle with Flower de Luces, and those of the Lion are red as are his brest-harness, which are charged in the middle with the Armes of <hi>Castile;</hi> The Cock &amp; the colour of blew are peculiar to <hi>France,</hi> as well as the Flower-de-Luce; and the Lion, and the colour red belong to <hi>Spain;</hi> the Cock is of the right (the same) hand with the King; the Lion on the left under the feet of the <hi>Infanta</hi> our most <hi>Aug.</hi> Queen: one would say, that these creatures turning their heads with such fiewd action, and looking so fixedly on one another, did think themselves surprized by this linking of them together, with some astonishment of seeing themselve in company. In fine, their posture is so to the life, that you would rather imagine them to go or flye. then to be tied in harness.</p>
+               <p>At the right side of the Table you may perceive thunder and lightning which break the clouds to fall on the heads of Malefa<g ref="char:EOLhyphen"/>ctors, also a Goddess who descends from the clouds to drive a<g ref="char:EOLhyphen"/>way the Horrours of War, and destroy Envy that lyes at her feet. This Fair Goddess who threatens Rebels and malicious persons, hath for her armes in her hands a Consular Axe, bound about with a bundle of Rods, which one may justly say she borrowed from the Armories of Monsieur the Cardinal, who hath spent a great labour in allaying the rancour, and dispelling the horrour of the War.</p>
+               <p>On the other side, she who so long expected peace, is repre<g ref="char:EOLhyphen"/>sented with a <hi>Cornu Copia</hi> in her right hand: In her left hand she holds up the <hi>Arts</hi> and <hi>Sciences</hi> figured by the Muses, whom she presents at the Throne of their Majesties; this is to note that the Peace brings plenty to the reflourishing of <hi>Arts</hi> and <hi>Sciences.</hi>
+               </p>
+               <p>There are (as was said before) other Figures on the side of this great Tables, and on the right representing maternal affection; she holds in her hand a flaming heart, by her is a Pelican, that sacrifices her selfe to her young; the Embleme of the Queen Mo<g ref="char:EOLhyphen"/>ther and her cognizance or badge upon the Cassocks of hee Guards during her Regency. The other represents mansuetude or sweetness in the habite and figure of a woman somewhat lar<g ref="char:EOLhyphen"/>ger
+<pb n="12" facs="tcp:119213:8"/>then naturall, crowned with flowers, holding a Lamb on her knees, and a Tyger couchant at her feet, with his mouth wide open, at which Bees enter, to shew the mixture of lenity and cruelty.</p>
+               <p>On the top of this Table is a large Frontispiece, in the middle whereof stands <hi>Hercules</hi> or <hi>Atlas</hi> with a Globe on his shoulders painted with Flower de Lucè: and as he seems to shrinke under the burthen, two Genius on each side help him to support it: At both ends of this Frontispiece, are many Trophees and En<g ref="char:EOLhyphen"/>signes of War gained from our enemies.</p>
+               <p>There are two Tables on the top of the Pyramide, the one re<g ref="char:EOLhyphen"/>presents the battle of <hi>Rocroy</hi> by the two Genius of <hi>France</hi> and <hi>Spain</hi> armed, who combats vigorously, but that of <hi>France</hi> caries the victory. The other represents the most happy birth of our Monarch; in the middle of it is the picture of the Queen, and an<g ref="char:EOLhyphen"/>other representing <hi>France,</hi> whom the Queen presents with an In<g ref="char:EOLhyphen"/>fant; above is a figure of Divine providence with a Seepter in her right hand, upon which an eye is placed, her head crowned with Stars; she seems to assure the Queen and Kingdome, that this Infant was sent from heaven, and truly <hi>Given of God.</hi>
+               </p>
+               <p>On the point of the Pyramide which looseth her selfe in the clouds, stands <hi>Fame</hi> crowned with a <hi>Cornu-copia</hi> under her left arme, and in that hand a trumpet; her right hand in which are the names of the King and Queen, she lifts up to the clouds there to place them.</p>
+               <p>This is the Face of the Pyramide as it aspects the middle of the place <hi>Dauphin</hi> and its Amphitheatre there built, <hi>&amp;c</hi> on the other side of the Pyramide that looks towards the Brazen Horse, are these verses writ.</p>
+               <q>
+                  <l>Quisquis avi monimentum, hinc cernis &amp; inde nepotis,</l>
+                  <l>Hinc opus egregium pacis &amp; inde vides.</l>
+                  <l>Pacem restituit palmis gravis alter &amp; annis,</l>
+                  <l>Pacem alter juvenis victor &amp; ipse re<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ert.</l>
+                  <l>Munus uterque suis pacom d<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dit, alter &amp; orbi,</l>
+                  <l>Arbitriis pacans omnia <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>egna suis.</l>
+                  <l>Et miraris, avi celso super ire Colosso.</l>
+                  <l>Quod L<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>doiceus conspiciatur apex?</l>
+               </q>
+               <q>
+                  <pb n="13" facs="tcp:119213:8"/>
+                  <l>Who sees the Gradsires, sees the Grand sons fame.</l>
+                  <l>Trophees of Peace are here and there the same.</l>
+                  <l>He overladen both with years and bayes,</l>
+                  <l>This counts more Triumphs then he yet doth dayes,</l>
+                  <l>Both crown their state with peace, but this hath stil'd</l>
+                  <l>The universe, whose joyes are all fulfil'd.</l>
+                  <l>Wonder not then if this <hi>Coloss</hi> aspire,</l>
+                  <l>
+                     <hi>Lewis</hi> exceeds <hi>Henry</hi> the fourth his Sire.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>The description of the Porticue at the end of <hi>Nostre-Dame</hi> BRIDGE.</head>
+               <p>This Porticue is the abridgement and Epitome of all the other paintings, and shuts up the Bridge, or rather the beautifull Gal<g ref="char:EOLhyphen"/>lery of our Kings Statues and Medals. There are two pillars on the side, the Arch, and an excellent Table on the top of it.</p>
+               <p>By the pictures of their Majesties and the Queen-Mother, are represented all the vertues of their Ancestors in Medals. The Queen Mother is pictured on the upper end of the piece in the figure of <hi>June,</hi> with a Peacock by her with a Scepter in her hand pointing to the picture of the King below, listed up as it were in the ayr by <hi>Mercury.</hi> On her other side is the picture of the <hi>Infanta</hi> our Queen supported by the Goddess <hi>Venus.</hi>
+               </p>
+               <p>At the lower end, and under the portraicture of the K. <hi>Peace</hi> is figured, crowned with Lawrell, extinguishing the flame of War, and exterminating <hi>Mars</hi> who is prostrate at her feet. Two little <hi>Cupids</hi> also, enemies of War are there represented; the one breaks a sword, the other treads upon a buckler.</p>
+               <p>We have not particularized the chores of Musick, the concents of Lutes and Violins, and all sorts of ravishing ayrs and voyces that are placed at every <hi>Porticue,</hi> and other places of the City to charme the ears, as well as the beauty of the painting doth the eyes, because we would avoid tediousness.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
